@@ -10,7 +10,7 @@ const centerStyle = {
 function Header() {
     return (
       <Navbar bg="dark" variant="dark">
-        <Container style={centerStyle}>
+        <Container style={centerStyle}> 
           <Navbar.Brand>Gerenciamento de Projetos</Navbar.Brand>
         </Container>
       </Navbar>
